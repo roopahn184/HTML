@@ -1,9 +1,13 @@
-.pooja{
-    background-color: aqua;
+.align-square{
+    display: flex;
+    justify-content: space-evenly;
 }
-.quick{
+.square {
+    height: 100px;
+    width: 100px;
     background-color: blue;
 }
-#roopa{
-    background-color: blueviolet;
+.name{
+    font-size: 4rem;
+    margin-left: 600px;
 }
