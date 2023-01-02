@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    padding: 5% 10%;
+    font-size: 2rem;
+    font-family:"roboto",sans-serif;
+}
+ol{
+    list-style-type:inherit;
+    padding: 0;
+}
+ul{
+    list-style-type: square;
+    text-align: center;
+    list-style-position: outside;
+    color: blue;
+    line-height: 1.6;
+    inside;
+
+}
